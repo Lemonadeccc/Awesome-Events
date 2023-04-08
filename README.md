@@ -29,6 +29,7 @@
 - 开源摘星计划
 
 #### 大数据/CV/NLP
+- [飞桨黑客松第四期](https://github.com/PaddlePaddle/Paddle/issues/51281#paddlefamily)
 
 - [KAGGLE](https://www.kaggle.com/competitions)
 
