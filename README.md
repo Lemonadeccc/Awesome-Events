@@ -71,6 +71,7 @@
 ## 硬件
 
 #### 嵌入式
+- [RT-threadxInfineon](https://www.rt-thread.org/competition.html)
 
 - [全国大学生电子竞赛](http://nuedc.xjtu.edu.cn/)
 
@@ -91,6 +92,7 @@
 - RISC-V
   - [开源操作系统社区](https://os2edu.cn/homepage/)
   - [Rust China Hackathon Online](https://rustcc.cn/article?id=2f922fd7-c20c-497c-8f02-89708a9fcaf1)
+- [ISSCC](https://www.isscc.org/)
 
 - 不定期活动
   - 阿里云、腾讯开发者平台中有不定期活动。
