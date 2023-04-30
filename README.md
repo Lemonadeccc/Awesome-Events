@@ -86,6 +86,12 @@
 
 ## 其他
 
+- AIoT
+  - [小米工作室AIoT开发平台实践训练营](https://mp.weixin.qq.com/s/oo4vuAyhZSh8FRmzOv2UAg)
+  
+- 自动驾驶
+  - [Apollo EDU高校计划](https://mp.weixin.qq.com/s/QIQDAn3KCssgrsSJTdqkOg)
+
 - RISC-V
   - [开源操作系统社区](https://os2edu.cn/homepage/)
   - [Rust China Hackathon Online](https://rustcc.cn/article?id=2f922fd7-c20c-497c-8f02-89708a9fcaf1)
