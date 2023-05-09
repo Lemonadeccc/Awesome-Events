@@ -21,7 +21,7 @@
 - [ASOC](https://asoc2022.opensource.alibaba.com/)
   - 阿里巴巴编程之夏
 
-- [GitLink](https://www.gitlink.org.cn/)
+- [GitLink](https://www.gitlink.org.cn/glcc)
   - 编程夏令营，CCF举办
 
 - 腾讯犀牛鸟
