@@ -13,16 +13,12 @@
 #### 开源
 
 - [GSOC](https://summerofcode.withgoogle.com/)
-  - 谷歌编程之夏
 
 - [OSPP](https://summer-ospp.ac.cn/)
-  - 中科院软件所举办的编程之夏
 
 - [ASOC](https://asoc2022.opensource.alibaba.com/)
-  - 阿里巴巴编程之夏
 
 - [GitLink](https://www.gitlink.org.cn/glcc)
-  - 编程夏令营，CCF举办
 
 - 腾讯犀牛鸟
 
