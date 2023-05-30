@@ -66,6 +66,8 @@
 ## 硬件
 
 #### 嵌入式
+- [2023年第六届FPGA暑期学校](https://mp.weixin.qq.com/s?__biz=MzU0MjQ2MzYxNQ==&mid=2247488915&idx=1&sn=78c7a541075e2cf762d2827b050c40c9&chksm=fb1b1683cc6c9f955424857afb6702515c78da5f480763e094d0f0ca76af70c2cbd9495a2611&mpshare=1&scene=23&srcid=0530qTcmyfN5HTElUkHGrIs2&sharer_sharetime=1685416982550&sharer_shareid=eca0b5ce80278a5f5fe298f9e5f1ca2c#rd)
+
 - [RT-threadxInfineon](https://www.rt-thread.org/competition.html)
 
 - [全国大学生电子竞赛](http://nuedc.xjtu.edu.cn/)
