@@ -4,12 +4,6 @@
 
 ## 软件
 
-#### 算法
-
-- [蓝桥杯](https://dasai.lanqiao.cn/)
-
-- [力扣周赛](https://leetcode.cn/contest/)
-
 #### 开源
 
 - [GSOC](https://summerofcode.withgoogle.com/)
