@@ -84,6 +84,7 @@
 - [全志硬件设计大赛](https://mp.weixin.qq.com/s/WUt2029iiiZrgptBZzow2w)
 
 ## 其他
+- [全国大学生计算机系统能力大赛](https://os.educg.net/#/)
 
 - AIoT
   - [小米工作室AIoT开发平台实践训练营](https://mp.weixin.qq.com/s/oo4vuAyhZSh8FRmzOv2UAg)
