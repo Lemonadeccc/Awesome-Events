@@ -92,9 +92,9 @@
 - 自动驾驶
   - [Apollo EDU高校计划](https://mp.weixin.qq.com/s/QIQDAn3KCssgrsSJTdqkOg)
 
-- RISC-V
-  - [开源操作系统社区](https://os2edu.cn/homepage/)
-  - [Rust China Hackathon Online](https://rustcc.cn/article?id=2f922fd7-c20c-497c-8f02-89708a9fcaf1)
+
+- [开源操作系统社区](https://os2edu.cn/homepage/)
+- [Rust China Hackathon Online](https://rustcc.cn/article?id=2f922fd7-c20c-497c-8f02-89708a9fcaf1)
 - [ISSCC](https://www.isscc.org/)
 
 - 不定期活动
