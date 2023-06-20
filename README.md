@@ -58,7 +58,7 @@
 
 
 ## 硬件
-#### 嵌入式
+#### 嵌入式/FPGA
 - [中国研究生电子设计竞赛](https://cpipc.acge.org.cn/cw/hp/6)
 
 - [集创赛](http://univ.ciciec.com/)
