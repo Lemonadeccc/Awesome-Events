@@ -19,6 +19,10 @@
 - 开源摘星计划
 
 #### 大数据/CV/NLP
+- [百度移动端实战训练营](https://mp.weixin.qq.com/s/jXWsLSljf54C_TPjOv2qGg)
+
+- [百度智能云“AI创之旅”夏令营](https://mp.weixin.qq.com/s/D1pTK5eJZf9ruGdB_oKSFg)
+
 - [百度商业AI技术创新大赛](https://mp.weixin.qq.com/s/L7vd878_P93O4Ydr59cuFA)(报名2023.5.23-2023.7.13)
 
 - [飞桨黑客松第四期](https://github.com/PaddlePaddle/Paddle/issues/51281#paddlefamily)
@@ -59,6 +63,8 @@
 
 ## 硬件
 #### 嵌入式/FPGA/IC
+- [第八届立创电子设计开源大赛](https://diy.szlcsc.com/?f=banner)
+
 - [嵌入式芯片与系统设计竞赛](http://www.socchina.net/)
 
 - [中国研究生电子设计竞赛](https://cpipc.acge.org.cn/cw/hp/6)
