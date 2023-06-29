@@ -19,7 +19,6 @@
 - 开源摘星计划
 
 #### 大数据/CV/NLP
-- [百度移动端实战训练营](https://mp.weixin.qq.com/s/jXWsLSljf54C_TPjOv2qGg)
 
 - [百度智能云“AI创之旅”夏令营](https://mp.weixin.qq.com/s/D1pTK5eJZf9ruGdB_oKSFg)
 
@@ -55,6 +54,7 @@
 - [Hacktoberfest](https://hacktoberfest.com/)
 
 #### 应用开发
+- [百度移动端实战训练营](https://mp.weixin.qq.com/s/jXWsLSljf54C_TPjOv2qGg)
 
 - [ByteCamp](https://bytecamp.toutiao.com/)
 
