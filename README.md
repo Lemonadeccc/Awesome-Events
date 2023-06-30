@@ -18,6 +18,8 @@
 
 - 开源摘星计划
 
+- [Summer of Bitcoin](https://www.summerofbitcoin.org/)
+
 #### 大数据/CV/NLP
 
 - [百度智能云“AI创之旅”夏令营](https://mp.weixin.qq.com/s/D1pTK5eJZf9ruGdB_oKSFg)
@@ -92,7 +94,6 @@
 - [全志硬件设计大赛](https://mp.weixin.qq.com/s/WUt2029iiiZrgptBZzow2w)
 
 ## 其他
-- [Summer of Bitcoin](https://www.summerofbitcoin.org/)
 
 - [第十九届百度之星程序设计大赛](https://mp.weixin.qq.com/s/HWVKrDc5LsuvmoRgf5M0fw)
 
