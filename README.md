@@ -92,6 +92,8 @@
 - [全志硬件设计大赛](https://mp.weixin.qq.com/s/WUt2029iiiZrgptBZzow2w)
 
 ## 其他
+- [Summer of Bitcoin](https://www.summerofbitcoin.org/)
+
 - [第十九届百度之星程序设计大赛](https://mp.weixin.qq.com/s/HWVKrDc5LsuvmoRgf5M0fw)
 
 - [“民生π”精英挑战赛](https://competition.nowcoder.com/118/introduce?channel=xttz_ms01#224)
