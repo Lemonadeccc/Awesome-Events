@@ -102,6 +102,8 @@
   - [小米工作室AIoT开发平台实践训练营](https://mp.weixin.qq.com/s/oo4vuAyhZSh8FRmzOv2UAg)
   
 - 自动驾驶
+
+  - [2023 Apollo星火培训计划](https://mp.weixin.qq.com/s/KzYVtmfE44PKUi7jrI-F2w) 
   - [Apollo EDU高校计划](https://mp.weixin.qq.com/s/QIQDAn3KCssgrsSJTdqkOg)
 
 
