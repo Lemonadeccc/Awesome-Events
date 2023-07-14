@@ -24,7 +24,7 @@
 
 - [百度智能云“AI创之旅”夏令营](https://mp.weixin.qq.com/s/D1pTK5eJZf9ruGdB_oKSFg)
 
-- [百度商业AI技术创新大赛](https://mp.weixin.qq.com/s/L7vd878_P93O4Ydr59cuFA)(报名2023.5.23-2023.7.13)
+- [百度商业AI技术创新大赛](https://mp.weixin.qq.com/s/L7vd878_P93O4Ydr59cuFA)
 
 - [飞桨黑客松第四期](https://github.com/PaddlePaddle/Paddle/issues/51281#paddlefamily)
 
