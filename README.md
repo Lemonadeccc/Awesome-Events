@@ -65,6 +65,8 @@
 
 ## 硬件
 #### 嵌入式/FPGA/IC
+- [第五届中国芯应用创新设计大赛](https://iaic.cecport.com/)
+
 - [2023RT-Thread操作系统大学生夏令营](https://mp.weixin.qq.com/s/T-1HSpkt6YViY33heXMxfw)
 
 - [第八届立创电子设计开源大赛](https://diy.szlcsc.com/?f=banner)
