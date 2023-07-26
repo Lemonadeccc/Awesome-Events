@@ -55,7 +55,9 @@
 - [CTF](https://www.ctfhub.com/#/calendar)
 - [Hacktoberfest](https://hacktoberfest.com/)
 
-#### 应用开发
+#### 应用/游戏开发
+- [第二届吉比特大学生暑期游戏开发训练营](https://mp.weixin.qq.com/s/SEGCfFWNaHbumCblX6txOg)
+
 - [百度移动端实战训练营](https://mp.weixin.qq.com/s/jXWsLSljf54C_TPjOv2qGg)
 
 - [ByteCamp](https://bytecamp.toutiao.com/)
