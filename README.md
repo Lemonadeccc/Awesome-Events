@@ -64,6 +64,8 @@
 
 - [字节跳动-青训营](https://youthcamp.bytedance.com/)
 
+- [第二届七牛云1024创作节](https://www.qiniu.com/activity/detail/651297ed0d50912d3d53307b?from=0011)
+
 
 ## 硬件
 #### 嵌入式/FPGA/IC
