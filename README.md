@@ -103,7 +103,7 @@
 
 ## 其他
 
--[“玄铁杯”RISC-V应用创新大赛](https://xuantie.t-head.cn/development/activities/occ-xuantieCompetition?id=4199886224594374656)
+- [“玄铁杯”RISC-V应用创新大赛](https://xuantie.t-head.cn/development/activities/occ-xuantieCompetition?id=4199886224594374656)
 
 - [第十九届百度之星程序设计大赛](https://mp.weixin.qq.com/s/HWVKrDc5LsuvmoRgf5M0fw)
 
