@@ -50,6 +50,8 @@
 
 - [昇思学习赛](https://mp.weixin.qq.com/s/v8rrfPiM9rfS9g7Nb-0-pQ)
 
+- [飞桨 x 文心大模型 x Founder Park 联合发起 AGI Hackathon](https://www.oschina.net/event/2331412)
+
 #### 安全
 
 - [CTF](https://www.ctfhub.com/#/calendar)
