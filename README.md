@@ -14,7 +14,7 @@
 
 - [GitLink](https://www.gitlink.org.cn/glcc)
 
-- 腾讯犀牛鸟
+- [腾讯犀牛鸟](https://www.withzz.com/project/detail/1496)
 
 - 开源摘星计划
 
