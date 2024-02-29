@@ -21,6 +21,7 @@
 - [Summer of Bitcoin](https://www.summerofbitcoin.org/)
 
 #### 大数据/CV/NLP
+- [大模型学生训练营](https://mp.weixin.qq.com/s/IO8bNy3q8y6UbD79zyImJg)
 
 - [百度智能云“AI创之旅”夏令营](https://mp.weixin.qq.com/s/D1pTK5eJZf9ruGdB_oKSFg)
 
@@ -58,6 +59,8 @@
 - [Hacktoberfest](https://hacktoberfest.com/)
 
 #### 应用/游戏开发
+- [2024华为软件精英挑战赛](https://mp.weixin.qq.com/s/_hkLqVCPavqtsbSyFMZRhQ)
+
 - [第二届吉比特大学生暑期游戏开发训练营](https://mp.weixin.qq.com/s/SEGCfFWNaHbumCblX6txOg)
 
 - [百度移动端实战训练营](https://mp.weixin.qq.com/s/jXWsLSljf54C_TPjOv2qGg)
