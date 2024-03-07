@@ -59,6 +59,8 @@
 - [Hacktoberfest](https://hacktoberfest.com/)
 
 #### 应用/游戏开发
+- [开放原子开源大赛](https://competition.atomgit.com/competition)
+
 - [2024华为软件精英挑战赛](https://mp.weixin.qq.com/s/_hkLqVCPavqtsbSyFMZRhQ)
 
 - [第二届吉比特大学生暑期游戏开发训练营](https://mp.weixin.qq.com/s/SEGCfFWNaHbumCblX6txOg)
