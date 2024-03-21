@@ -109,6 +109,7 @@
 - [全志硬件设计大赛](https://mp.weixin.qq.com/s/WUt2029iiiZrgptBZzow2w)
 
 ## 其他
+- [中国研究生操作系统开源创新大赛](https://cpipc.acge.org.cn/)
 
 - [“玄铁杯”RISC-V应用创新大赛](https://xuantie.t-head.cn/development/activities/occ-xuantieCompetition?id=4199886224594374656)
 
