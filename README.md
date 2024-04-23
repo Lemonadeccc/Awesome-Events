@@ -59,6 +59,8 @@
 - [Hacktoberfest](https://hacktoberfest.com/)
 
 #### 应用/游戏开发
+- [首届智能系统创新大赛（小米杯）](https://mp.weixin.qq.com/s/sUKQ3IKPuBlgLGKuE-GOzQ)
+
 - [开放原子开源大赛](https://competition.atomgit.com/competition)
 
 - [2024华为软件精英挑战赛](https://mp.weixin.qq.com/s/_hkLqVCPavqtsbSyFMZRhQ)
