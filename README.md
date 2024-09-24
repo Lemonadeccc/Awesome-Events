@@ -59,6 +59,8 @@
 - [Hacktoberfest](https://hacktoberfest.com/)
 
 #### 应用/游戏开发
+- [青训营 X MarsCode 技术训练营](https://juejin.cn/post/7417847509748400164)，24.9.24-10.22
+
 - [首届智能系统创新大赛（小米杯）](https://mp.weixin.qq.com/s/sUKQ3IKPuBlgLGKuE-GOzQ)
 
 - [开放原子开源大赛](https://competition.atomgit.com/competition)
