@@ -47,6 +47,9 @@
 
 - [LVIS 2021](https://cocodataset.org/#home)
 
+- [青训营 X MarsCode 技术训练营](https://juejin.cn/post/7417847509748400164)，24.9.24-24.10.22
+
+
 - [字节跳动-青训营](https://youthcamp.bytedance.com/)
 
 - [昇思学习赛](https://mp.weixin.qq.com/s/v8rrfPiM9rfS9g7Nb-0-pQ)
@@ -59,8 +62,6 @@
 - [Hacktoberfest](https://hacktoberfest.com/)
 
 #### 应用/游戏开发
-- [青训营 X MarsCode 技术训练营](https://juejin.cn/post/7417847509748400164)，24.9.24-10.22
-
 - [首届智能系统创新大赛（小米杯）](https://mp.weixin.qq.com/s/sUKQ3IKPuBlgLGKuE-GOzQ)
 
 - [开放原子开源大赛](https://competition.atomgit.com/competition)
