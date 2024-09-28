@@ -1,6 +1,6 @@
 # Awesome-Events
 
-收集到的可以参加的大小技术活动或者赛事。趋向重复进行的活动给出了链接。活动赛事规模、排名不分先后。以下时间为报名或提交申请时间，若无标注则不定期。
+收集到的可以参加的大小技术活动或者赛事。趋向重复进行的活动给出了链接。活动赛事规模、排名不分先后。以下时间为报名或提交申请时间，若无标注则不明。
 
 ## 软件
 
@@ -41,7 +41,7 @@
 
 - [飞桨快乐开源2024](https://github.com/PaddlePaddle/Paddle/issues/61482)
 
-- [KAGGLE](https://www.kaggle.com/competitions)
+- [KAGGLE](https://www.kaggle.com/competitions)，很多
 
 - [KDD Cup](https://www.kdd.org/kdd-cup)
   
