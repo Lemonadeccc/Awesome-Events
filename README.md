@@ -32,13 +32,13 @@
 
 - [大模型学生训练营](https://mp.weixin.qq.com/s/IO8bNy3q8y6UbD79zyImJg),24/2/28-24/3/13
 
-- [百度智能云“AI 创之旅”夏令营](https://mp.weixin.qq.com/s/D1pTK5eJZf9ruGdB_oKSFg),23 年的不定期。
+- [百度智能云“AI 创之旅”夏令营](https://mp.weixin.qq.com/s/D1pTK5eJZf9ruGdB_oKSFg),23 年的不定期
 
-- [百度商业 AI 技术创新大赛](https://mp.weixin.qq.com/s/L7vd878_P93O4Ydr59cuFA),不定期。
+- [百度商业 AI 技术创新大赛](https://mp.weixin.qq.com/s/L7vd878_P93O4Ydr59cuFA),不定期
 
-- [飞桨黑客松第四期](https://github.com/PaddlePaddle/Paddle/issues/51281#paddlefamily),23 年,已过期,不定期。
+- [飞桨黑客松第四期](https://github.com/PaddlePaddle/Paddle/issues/51281#paddlefamily),23 年,已过期,不定期
 
-- [飞桨黑客松第五期](https://github.com/PaddlePaddle/Paddle/issues/57262),23 年,已过期,不定期。
+- [飞桨黑客松第五期](https://github.com/PaddlePaddle/Paddle/issues/57262),23 年,已过期,不定期
 
 - [飞桨快乐开源 2024](https://github.com/PaddlePaddle/Paddle/issues/61482)
 
@@ -76,7 +76,7 @@
 
 - [青训营 X MarsCode 技术训练营](https://juejin.cn/post/7417847509748400164),24.9.24-24.10.22
 
-- [字节跳动-青训营](https://youthcamp.bytedance.com/),22/23 年。
+- [字节跳动-青训营](https://youthcamp.bytedance.com/),22/23 年
 
 - [首届智能系统创新大赛（小米杯）](https://mp.weixin.qq.com/s/sUKQ3IKPuBlgLGKuE-GOzQ),24/3/18-24/5/30
 
@@ -90,7 +90,7 @@
 
 - [ByteCamp](https://bytecamp.toutiao.com/),最近一次在 22 年
 
-- [第二届七牛云 1024 创作节](https://www.qiniu.com/activity/detail/651297ed0d50912d3d53307b?from=0011),最近一次 23 年。
+- [第二届七牛云 1024 创作节](https://www.qiniu.com/activity/detail/651297ed0d50912d3d53307b?from=0011),最近一次 23 年
 
 #### Web3/区块链
 
@@ -106,11 +106,11 @@
 
 #### 嵌入式/FPGA/IC
 
-- [deepin 操作系统开发实习生（RISC-V 架构）｜开源实习生联合招聘培养](<[https://www.sifive.cn/press/sifive-joins-the-jiachen-project-to-create-a-prosperous-risc-v-ecosystem](https://www.deepin.org/zh/deepin-risc-v-intern-recruitment/#:~:text=%E7%94%B2%E8%BE%B0%E8%AE%A1%E5%88%92%E8%81%94%E5%90%88%E5%9F%B9%E5%85%BB%20%E9%A6%96%E6%AC%A1%E7%AD%BE%E7%BD%B2%E5%AE%9E%E4%B9%A0%E5%90%88%E5%90%8C%E4%B8%BA%E4%B8%89%E4%B8%AA%E6%9C%88%EF%BC%8C%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E5%8A%A0%E5%85%A5%E5%92%8C%E9%80%80%E5%87%BA%EF%BC%8C%E5%AE%9E%E4%B9%A0%E8%AF%81%E6%98%8E%E4%BB%A5%E5%90%88%E5%90%8C%E7%94%9F%E6%95%88%E8%87%B3%E5%AE%9E%E9%99%85%E9%80%80%E5%87%BA%E4%B9%8B%E6%97%A5%E4%B8%BA%E5%87%86%E3%80%82%20%E9%A6%96%E6%AC%A1%E7%AD%BE%E7%BD%B2%E5%AE%9E%E4%B9%A0%E4%B8%BA,%E5%BC%80%E6%BA%90%E8%BF%9C%E7%A8%8B%E5%AE%9E%E4%B9%A0%E3%80%82%20PLCT%20%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%98%AF%E6%9C%AC%E6%AC%A1%E5%AE%9E%E4%B9%A0%E5%B2%97%E4%BD%8D%E7%9A%84%E5%9F%B9%E5%85%BB%E6%89%BF%E6%8B%85%E7%BB%84%E7%BB%87%E3%80%82%20%E5%AE%9E%E4%B9%A0%E6%9C%9F%E6%BB%A1%E4%B9%8B%E5%90%8E%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%8F%AF%E4%BB%A5%E8%87%AA%E7%94%B1%E4%B8%8E%E7%94%B2%E8%BE%B0%E8%AE%A1%E5%88%92%E6%88%90%E5%91%98%E4%BC%81%E4%B8%9A%E5%8D%8F%E5%95%86%E7%BB%AD%E7%AD%BE%EF%BC%8C%E6%9C%AC%E5%AE%9E%E4%B9%A0%E5%AF%B9%E5%90%8E%E7%BB%AD%E5%AE%9E%E4%B9%A0%E5%90%88%E5%90%8C%E6%B2%A1%E6%9C%89%E5%88%B6%E7%BA%A6%E5%85%B3%E7%B3%BB%EF%BC%8C%E5%AE%9E%E4%B9%A0%E5%BD%A2%E5%BC%8F%E4%B8%8E%E5%86%85%E5%AE%B9%E7%94%B1%E7%94%A8%E4%BA%BA%E5%8D%95%E4%BD%8D%E5%92%8C%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%8F%8C%E6%96%B9%E8%87%AA%E8%A1%8C%E5%8D%8F%E5%AE%9A%E3%80%82)>),远程实习 3 个月
+- [deepin 操作系统开发实习生（RISC-V 架构）｜开源实习生联合招聘培养](https://www.deepin.org/zh/deepin-risc-v-intern-recruitment/),远程实习 3 个月
 
 - [甲辰计划实习生](https://github.com/rv2036/weloveinterns/blob/master/open-internships.md),每年开放超过 2000 名实习名额,并招募超过 1000 人次的学生参与实习
 
-- [一生一芯](https://oscpu.github.io/ysyx/)
+- [一生一芯](https://oscpu.github.io/ysyx/),常年任何时间
 
 - [第五届中国芯应用创新设计大赛](https://iaic.cecport.com/),最新在 23 年举办
 
@@ -168,4 +168,4 @@
 - [ISSCC](https://www.isscc.org/)
 
 - 不定期活动
-  - 阿里云、腾讯开发者平台中有不定期活动。
+  - 阿里云、腾讯开发者平台中有不定期活动
