@@ -96,11 +96,11 @@
 
 ##### hackaton
 
--[EMC HACKATHON: AI & DePIN Builders Unite on EMC](https://dorahacks.io/hackathon/emc-hackathon/detail),24/9/10-24/10/15,online
+- [EMC HACKATHON: AI & DePIN Builders Unite on EMC](https://dorahacks.io/hackathon/emc-hackathon/detail),24/9/10-24/10/15,online
 
--[Sui Bangkok Hacker House (Devcon 2024)](https://lu.ma/sui-bkk-hh-2024),24/11/4,Thaliand
+- [Sui Bangkok Hacker House (Devcon 2024)](https://lu.ma/sui-bkk-hh-2024),24/11/4,Thaliand
 
--[Ideahacker's Guide to IBC](https://dorahacks.io/org/2460/hackathon),24/9/7-24/9/27,online
+- [Ideahacker's Guide to IBC](https://dorahacks.io/org/2460/hackathon),24/9/7-24/9/27,online
 
 ## 硬件
 
