@@ -1,24 +1,26 @@
 # Awesome-Events
 
-收集到的可以参加的大小技术活动或者赛事。趋向重复进行的活动给出了链接。活动赛事规模、排名不分先后。
+收集到的可以参加的大小技术活动或者赛事。趋向重复进行的活动给出了链接。活动赛事规模、排名不分先后。以下时间为报名或提交申请时间，若无标注则不定期。
 
 ## 软件
 
 #### 开源
 
-- [GSOC](https://summerofcode.withgoogle.com/)
+- [GSOC](https://summerofcode.withgoogle.com/)，24/3/18-24/4/2
 
-- [OSPP](https://summer-ospp.ac.cn/)
+- [OSPP](https://summer-ospp.ac.cn/),24/03/11-24/03/31
 
-- [ASOC](https://asoc2022.opensource.alibaba.com/)
+- [ASOC](https://asoc2022.opensource.alibaba.com/),最近一次在22年
 
-- [GitLink](https://www.gitlink.org.cn/glcc)
+- [GitLink](https://www.gitlink.org.cn/competitions)，生态多
 
-- [腾讯犀牛鸟](https://www.withzz.com/project/detail/1496)
+- [腾讯犀牛鸟](https://opensource.tencent.com//summer-of-code)，24/7/28前
 
-- 开源摘星计划
+- 开源摘星计划，最近一次22年
 
-- [Summer of Bitcoin](https://www.summerofbitcoin.org/)
+- [Summer of Bitcoin](https://www.summerofbitcoin.org/),24/2/16前
+
+- [GitCode开源摘星计划](https://gitcode.com/g-star/apply)
 
 #### 大数据/CV/NLP
 - [大模型学生训练营](https://mp.weixin.qq.com/s/IO8bNy3q8y6UbD79zyImJg)
