@@ -6,7 +6,7 @@
 
 #### 开源
 
-- [GSOC](https://summerofcode.withgoogle.com/)，24/3/18-24/4/2
+- [GSOC](https://summerofcode.withgoogle.com/),24/3/18-24/4/2
 
 - [OSPP](https://summer-ospp.ac.cn/),24/03/11-24/03/31
 
