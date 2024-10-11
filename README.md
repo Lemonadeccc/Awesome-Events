@@ -94,6 +94,8 @@
 
 - [第三届1024创作节之校园编程马拉松](https://www.qiniu.com/activity/detail/66cfe17084a4441c29b08be9#partners),24/10/8-24/10/24
 
+- [ICPC](https://icpc.global/)
+
 #### Web3/区块链
 
 ##### hackaton
