@@ -90,7 +90,9 @@
 
 - [ByteCamp](https://bytecamp.toutiao.com/),最近一次在 22 年
 
-- [第二届七牛云 1024 创作节](https://www.qiniu.com/activity/detail/651297ed0d50912d3d53307b?from=0011),最近一次 23 年
+- [第二届七牛云 1024 创作节](https://www.qiniu.com/activity/detail/651297ed0d50912d3d53307b?from=0011),23年
+
+- [第三届1024创作节之校园编程马拉松](https://www.qiniu.com/activity/detail/66cfe17084a4441c29b08be9#partners),24/10/8-24/10/24
 
 #### Web3/区块链
 
