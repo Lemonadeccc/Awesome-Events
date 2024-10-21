@@ -106,6 +106,8 @@
 
 - [Ideahacker's Guide to IBC](https://dorahacks.io/org/2460/hackathon),24/9/7-24/9/27,online
 
+- [Eth-2024黑客松大赛](https://ethglobal.com/events/superhack2024)，24/8/2-24/8/16
+
 ## 硬件
 
 #### 嵌入式/FPGA/IC
