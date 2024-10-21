@@ -149,6 +149,7 @@
 ## 其他
 
 - [开源操作系统社区](https://os2edu.cn/homepage/)
+- [开源操作系统训练营](https://opencamp.cn/)门槛低
 - [Rust China Hackathon Online](https://rustcc.cn/article?id=2f922fd7-c20c-497c-8f02-89708a9fcaf1)
 - [中国研究生创新实践大赛](https://cpipc.acge.org.cn/),生态多
 
