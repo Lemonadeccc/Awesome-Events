@@ -116,6 +116,8 @@
 
 - [甲辰计划实习生](https://github.com/rv2036/weloveinterns/blob/master/open-internships.md),每年开放超过 2000 名实习名额,并招募超过 1000 人次的学生参与实习
 
+- [甲辰计划实习](https://mp.weixin.qq.com/s/eUoIqWnB0ZS2oBb5wtGmgg)
+
 - [一生一芯](https://oscpu.github.io/ysyx/),常年任何时间
 
 - [第五届中国芯应用创新设计大赛](https://iaic.cecport.com/),最新在 23 年举办
