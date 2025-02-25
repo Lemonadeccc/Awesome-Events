@@ -74,6 +74,8 @@
 
 #### 应用/游戏开发
 
+- [Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！](https://mp.weixin.qq.com/s/IDBV-3NAfrtqKMmQaQRH_g)
+
 - [青训营 X MarsCode 技术训练营](https://juejin.cn/post/7417847509748400164),24.9.24-24.10.22
 
 - [字节跳动-青训营](https://youthcamp.bytedance.com/),22/23 年
