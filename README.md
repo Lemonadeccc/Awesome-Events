@@ -73,6 +73,7 @@
 - [Hacktoberfest](https://hacktoberfest.com/)24/9/23-24/10/31
 
 #### 应用/游戏开发
+- [第二期傲来操作系统训练营](https://opencamp.cn/EulixOS/camp/202501/register?code=bJoEaU9oTQfiN)
 
 - [Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！](https://mp.weixin.qq.com/s/IDBV-3NAfrtqKMmQaQRH_g)
 
