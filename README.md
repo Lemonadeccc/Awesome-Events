@@ -70,10 +70,10 @@
 #### 安全
 
 - [CTF](https://www.ctfhub.com/#/calendar)
+  
 - [Hacktoberfest](https://hacktoberfest.com/)24/9/23-24/10/31
 
 #### 应用/游戏开发
-- [第二期傲来操作系统训练营](https://opencamp.cn/EulixOS/camp/202501/register?code=bJoEaU9oTQfiN)
 
 - [Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！](https://mp.weixin.qq.com/s/IDBV-3NAfrtqKMmQaQRH_g)
 
@@ -154,10 +154,14 @@
 - [全志硬件设计大赛](https://mp.weixin.qq.com/s/WUt2029iiiZrgptBZzow2w)
 
 ## 其他
+- [第二期傲来操作系统训练营](https://opencamp.cn/EulixOS/camp/202501/register?code=bJoEaU9oTQfiN)
 
 - [开源操作系统社区](https://os2edu.cn/homepage/)
+  
 - [开源操作系统训练营](https://opencamp.cn/)门槛低
+  
 - [Rust China Hackathon Online](https://rustcc.cn/article?id=2f922fd7-c20c-497c-8f02-89708a9fcaf1)
+  
 - [中国研究生创新实践大赛](https://cpipc.acge.org.cn/),生态多
 
 - [“玄铁杯”RISC-V 应用创新大赛](https://xuantie.t-head.cn/development/activities/occ-xuantieCompetition?id=4199886224594374656),23 年了
