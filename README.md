@@ -75,6 +75,8 @@
 
 #### 应用/游戏开发
 
+- [抖音创变者计划](https://aiia.douyin.com/),25.7.20-25.9.17
+
 - [Code Less, Create More丨AI FOR CODE 创意挑战赛即将开幕！](https://mp.weixin.qq.com/s/IDBV-3NAfrtqKMmQaQRH_g)
 
 - [青训营 X MarsCode 技术训练营](https://juejin.cn/post/7417847509748400164),24.9.24-24.10.22
