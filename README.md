@@ -29,6 +29,8 @@
 - [LFX Mentorship](https://bbs.huaweicloud.com/blogs/432571),24/7/31-24/8/13
 
 ##### hackaton
+- [知乎 Game Jam • Unity 中国开发挑战赛特别场-报名问卷](https://wj.qq.com/s2/23237733/540f),25.8.15-25.8.17
+
 - [amber](https://amber.ac/)
 
 - [supo](https://supos.ai/product/supos)
