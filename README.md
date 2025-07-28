@@ -28,6 +28,19 @@
 
 - [LFX Mentorship](https://bbs.huaweicloud.com/blogs/432571),24/7/31-24/8/13
 
+##### hackaton
+- [amber](https://amber.ac/)
+
+- [supo](https://supos.ai/product/supos)
+
+- [EMC HACKATHON: AI & DePIN Builders Unite on EMC](https://dorahacks.io/hackathon/emc-hackathon/detail),24/9/10-24/10/15,online
+
+- [Sui Bangkok Hacker House (Devcon 2024)](https://lu.ma/sui-bkk-hh-2024),24/11/4,Thaliand
+
+- [Ideahacker's Guide to IBC](https://dorahacks.io/org/2460/hackathon),24/9/7-24/9/27,online
+
+- [Eth-2024黑客松大赛](https://ethglobal.com/events/superhack2024)，24/8/2-24/8/16
+
 #### 大数据/CV/NLP/LLM
 
 - [大模型学生训练营](https://mp.weixin.qq.com/s/IO8bNy3q8y6UbD79zyImJg),24/2/28-24/3/13
@@ -102,16 +115,6 @@
 - [ICPC](https://icpc.global/)
 
 #### Web3/区块链
-
-##### hackaton
-
-- [EMC HACKATHON: AI & DePIN Builders Unite on EMC](https://dorahacks.io/hackathon/emc-hackathon/detail),24/9/10-24/10/15,online
-
-- [Sui Bangkok Hacker House (Devcon 2024)](https://lu.ma/sui-bkk-hh-2024),24/11/4,Thaliand
-
-- [Ideahacker's Guide to IBC](https://dorahacks.io/org/2460/hackathon),24/9/7-24/9/27,online
-
-- [Eth-2024黑客松大赛](https://ethglobal.com/events/superhack2024)，24/8/2-24/8/16
 
 ## 硬件
 
